@@ -1,0 +1,116 @@
+name,ring,quadrant,isNew,description
+"Story Point
+Estimation",Adopt,Techniques,TRUE,
+"Symfony
+5.2",Adopt,languages-and-frameworks,TRUE,
+React,Adopt,languages-and-frameworks,TRUE,
+Containers,Adopt,Tools,TRUE,
+"(mobile)
+swift",Adopt,languages-and-frameworks,TRUE,
+"(mobile)
+Kotlin",Adopt,languages-and-frameworks,TRUE,
+Type script,Adopt,languages-and-frameworks,TRUE,
+PHP 7.4,Adopt,languages-and-frameworks,TRUE,
+RABBIT MQ,Adopt,Platforms,TRUE,
+Postgresql,Adopt,Platforms,TRUE,
+Redis,Adopt,Platforms,TRUE,
+Redux,Adopt,languages-and-frameworks,TRUE,
+ES6,Adopt,languages-and-frameworks,TRUE,
+Unit Testing,Adopt,Techniques,TRUE,
+Test Automation,Adopt,Techniques,TRUE,
+API first,Adopt,Techniques,TRUE,
+"Open
+tracing",Adopt,Tools,TRUE,
+Open API,Adopt,Tools,TRUE,
+"Async API
+Yaml",Adopt,Tools,TRUE,
+Microservices,Adopt,Techniques,TRUE,
+Webpack 5,Adopt,Tools,TRUE,
+"React
+Error
+Boundaries",Adopt,languages-and-frameworks,TRUE,"<p><a href=""https://reactjs.org/docs/error-boundaries.html"">Error boundaries</a> are React components that catch JavaScript errors anywhere in their child component tree, log those errors, and display a fallback UI instead of the component tree that crashed. Error boundaries catch errors during rendering, in lifecycle methods, and in constructors of the whole tree below them.</p>"
+kubernetes,Trial,Platforms,TRUE,
+Lightstep,Trial,Tools,TRUE,
+GraphQL,Trial,Techniques,TRUE,
+"Apollo
+Graph QL",Trial,languages-and-frameworks,TRUE,
+Blackfire,Trial,Tools,TRUE,"<p><a href=""https://www.blackfire.io/"">Blackfire.io</a> makes it possible to write performance tests, automate test scenarios,
+                        and drill down to the finest details whenever performance issues arise.
+
+                        Teams can collaborate on performance testing in all environments: development, testing,
+                        staging and production.
+                    </p>"
+sajari,Trial,Platforms,TRUE,
+"lint on
+commit
+hook",Trial,Techniques,TRUE,
+Trunk-based deployment,Trial,Techniques,TRUE,
+Contract Testing,Trial,Techniques,TRUE,"<p><a href=""https://pactflow.io/blog/what-is-contract-testing/"">Contract testing </a>is a methodology for ensuring that two separate systems (such as two microservices) are compatible with one other. It captures the interactions that are exchanged between each service, storing them in a <em>contract</em>, which can then be used to verify that both parties adhere to it.</p>"
+cypress,Trial,Tools,TRUE,"<p><a href=""https://cypress.io"">Cypress</a> is a next generation front end testing tool built for the modern web. We address the key pain points developers and QA engineers face when testing modern applications.</p>"
+E2E testing,Trial,Techniques,TRUE,
+Docker-Compose for local,Trial,Tools,TRUE,
+Buildkite with local agents,Trial,Platforms,TRUE,
+CSS in JS,Trial,languages-and-frameworks,TRUE,
+Sentry,Assess,Tools,TRUE,"Sentry is a cross-platform application monitoring tool with a focus on error reporting. Tools like Sentry distinguish themselves from traditional logging solutions such as the ELK Stack in their focus on discovering, investigating and fixing errors. Sentry has been around for a while and supports several languages and frameworks. Thought-works have used Sentry in many projects, and it has been really useful in tracking errors, finding out if a commit actually fixed an issue and alerting us if an issue resurfaces due to a regression."
+"Teams use
+the same base
+item/activity for
+SP estimating",Assess,Techniques,TRUE,
+Memcache,Assess,Platforms,TRUE,
+"Test
+Data
+Management
+solution",Assess,Techniques,TRUE,
+Go,Assess,languages-and-frameworks,TRUE,
+"AWS
+RabbitMQ",Assess,Platforms,TRUE,
+"VITESS
+RDBMS",Assess,Platforms,TRUE,"<p><a href=""https://vitess.io/"">Vitess</a> is a database solution for deploying, scaling and managing large clusters of open-source database instances. It currently supports MySQL and MariaDB. It’s architected to run as effectively in a public or private cloud architecture as it does on dedicated hardware. It combines and extends many important SQL features with the scalability of a NoSQL database. Vitess can help you with the following problems:</p><ol><li>Scaling a SQL database by allowing you to shard it, while keeping application changes to a minimum.</li><li>Migrating from baremetal to a private or public cloud.</li><li>Deploying and managing a large number of SQL database instances.</li></ol><p>Vitess includes compliant JDBC and Go database drivers using a native query protocol. Additionally, it implements the MySQL server protocol which is compatible with virtually any other language.</p>"
+"(mobile)
+Native
+UI Testing",Assess,Techniques,TRUE,
+PHP8,Assess,languages-and-frameworks,TRUE,
+GRPC / PROTOBUF,Assess,languages-and-frameworks,TRUE,
+"Production
+DB
+Access",Assess,Techniques,TRUE,
+"Rollbar
+for
+SF",Assess,Tools,TRUE,
+"Python
+as a 
+Delivery
+Engineering
+toolchain language",Assess,languages-and-frameworks,TRUE,
+"Fargate
+EKS",Assess,Platforms,TRUE,
+Bootstrap,Assess,languages-and-frameworks,TRUE,
+TWIG,Assess,languages-and-frameworks,TRUE,
+ALGOLIA,Assess,Platforms,TRUE,
+"AWS
+SAM to
+eventing
+workloads",Assess,Platforms,TRUE,
+"Failure
+testing in
+prod",Assess,Techniques,TRUE,
+SQS,Hold,Platforms,TRUE,
+Resque,Hold,Platforms,TRUE,
+"Highjump
+(current version)",Hold,Platforms,TRUE,
+mySQL,Hold,Platforms,TRUE,
+jQuery,Hold,languages-and-frameworks,TRUE,
+Vmware,Hold,Platforms,TRUE,
+ES5,Hold,languages-and-frameworks,TRUE,
+"EC2 for
+web",Hold,Platforms,TRUE,
+"Rabbit
+RPC",Hold,Platforms,TRUE,
+"(mobile)
+Java",Hold,languages-and-frameworks,TRUE,
+"Self hosted
+ELASTIC SEARCH",Hold,Platforms,TRUE,
+"CRON
+BOX",Hold,Techniques,TRUE,
+"(mobile)
+Objective-C",Hold,languages-and-frameworks,TRUE,
